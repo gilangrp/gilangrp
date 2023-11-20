@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @gilangrp
+- 👀 I’m interested in Front End and Back End Development
+- 🌱 I’m good at Next.js, React.js, Vue.js, and Laravel 
+- 💞️ I’m looking to collaborate on project
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/gilang-rizki-83680139/
+- Instagram: @gilrizqi
+- Email: gilangrpratama@gmail.com
